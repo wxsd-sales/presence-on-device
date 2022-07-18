@@ -16,7 +16,7 @@
     <a href="https://github.com/WXSD-Sales/PresenceOnDevice"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://wxsd-sales.github.io/PresenceOnDevice/">View Demo</a>
+    <a href="https://wxsd-sales.github.io/presence-on-device/">View Demo</a>
     ·
     <a href="https://github.com/WXSD-Sales/PresenceOnDevice/issues">Report Bug</a>
     ·
